@@ -4,3 +4,5 @@
 | -15.94684764968563  |       |                 | 16  | 7.741935483870968 | DMRG (maxbonddim = 200)                         |                                                              |
 | -15.946847944066832 |  | 2.23852225644805e-09 | 16  | 7.741935483870968 | DMRG (maxbonddim = 573)                         |                                                              |
 | -15.946206847643403 |       | 1.01e-3         | 16  | 7.741935483870968 | QMC (continuous-time expansion), PRB 93, 155117 | [SpinlesstV-LCT-INT](https://github.com/wangleiphy/SpinlesstV-LCT-INT) |
+| -15.94538           | 1.2e-4 | 0.01375723     | 16  | 7.741935483870968 | Jastrow baseline                                |                                                              |
+| -15.65107           | 8.6e-4 | 0.7603759      | 16  | 7.741935483870968 | RBM (alpha = 1)                                 |                                                              |
